@@ -15,4 +15,7 @@ var myVar = "Hello, world!";
 ``` python
 var = 'hello there!'
 print(var)
-```
+``` 
+- [x] Test 1
+- [x] Test 2
+- [ ] Test 3 
